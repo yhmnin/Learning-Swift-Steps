@@ -2,7 +2,7 @@
 
 import UIKit
 
-var str = "Hello, playground"
+var str = "Hello, Enum"
 
 //Enumeration Syntax
 enum CompassPoint{
